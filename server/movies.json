@@ -1,0 +1,712 @@
+[
+    {
+        "id": "1",
+        "title": "Breaking Bad",
+        "description": "A high school teacher decides to cook meth to provide for his family before he dies of cancer",
+        "about": "Breaking Bad is a gripping drama that follows the transformation of Walter White, a high school chemistry teacher turned methamphetamine manufacturer. The show explores the consequences of his choices, the impact on his family, and the moral descent into the dangerous world of drug trade.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/Svb3PBWmhaQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "2",
+        "title": "Game of Thrones",
+        "description": "An amazing TV show up until the end",
+        "about": "Game of Thrones is an epic fantasy series set in the fictional continents of Westeros and Essos. Filled with political intrigue, power struggles, and dragons, it follows noble families vying for control of the Iron Throne. While praised for its early seasons, the later seasons received mixed reviews.",
+        "thumbnailUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/06/emilia-clarke-daenerys-targaryen-game-of-thrones-hbo.jpg",
+        "videoUrl": "https://www.youtube.com/embed/tdwGrD169hE?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "3",
+        "title": "South Park",
+        "description": "Four boys try to make it through school",
+        "about": "South Park is an animated comedy that follows the misadventures of four boys—Stan, Kyle, Cartman, and Kenny—in the titular Colorado town. Known for its irreverent humor, the show satirizes various aspects of society, tackling current events and pop culture with a unique and often controversial perspective.",
+        "thumbnailUrl": "https://variety.com/wp-content/uploads/2019/10/south-park.jpg?w=1000&h=563&crop=1",
+        "videoUrl": "https://www.youtube.com/embed/MW-bASP8mAg?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "4",
+        "title": "Chernobyl",
+        "description": "Nuclear explosion in Ukraine",
+        "about": "Chernobyl is a historical drama miniseries depicting the events surrounding the Chernobyl nuclear disaster of 1986. It provides a harrowing account of the catastrophic nuclear meltdown and its aftermath, showcasing the heroism of those who tried to contain the disaster and the devastating impact on the lives of the people in the region.",
+        "thumbnailUrl": "https://images.thequint.com/thequint%2F2019-06%2F802fb162-5ab9-493a-9bc6-20e808b96f47%2Fchern.jpg?rect=0%2C0%2C952%2C536",
+        "videoUrl": "https://www.youtube.com/embed/Fy-QAIwV-D0?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "5",
+        "title": "Dopesick",
+        "description": "Pharmaceutical company and corruption",
+        "about": "Dopesick is a compelling drama that delves into the opioid epidemic in the United States, exposing the role of pharmaceutical companies in fueling addiction. The series sheds light on the moral and legal implications of the crisis and its impact on individuals, families, and communities.",
+        "thumbnailUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6441C797FBE6A4FCCDB69A403F5850E76F6D762802D86FFAC13E4341C771600/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "videoUrl": "https://www.youtube.com/embed/t0i2jYG784U?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "6",
+        "title": "The Last Dance",
+        "description": "Documentary on the GOAT",
+        "about": "The Last Dance is a captivating documentary series that chronicles the career of basketball legend Michael Jordan and the Chicago Bulls' quest for a sixth NBA championship. Filled with behind-the-scenes footage and interviews, it provides a comprehensive and intimate look at one of the greatest athletes of all time.",
+        "thumbnailUrl": "https://library.sportingnews.com/2021-08/the-last-dance-netflix-espn-plus-ftr_pihe64f7uvv611v0e47jjby4x.png",
+        "videoUrl": "https://www.youtube.com/embed/NODVmYesb20?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "7",
+        "title": "The Office",
+        "description": "Documentary on people in an office",
+        "about": "The Office is a mockumentary sitcom that humorously depicts the daily lives of office employees at Dunder Mifflin Paper Company. Through its unique format, the show explores workplace dynamics, relationships, and the quirky personalities of the diverse cast, creating a timeless and beloved comedy.",
+        "thumbnailUrl": "https://flxt.tmsimg.com/assets/p185008_b_h10_ai.jpg",
+        "videoUrl": "https://www.youtube.com/embed/ives5m1cgw?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "8",
+        "title": "Trailer Park Boys",
+        "description": "Documentary on people in a trailer park",
+        "about": "Trailer Park Boys is a mockumentary that follows the humorous escapades of three friends living in the fictional Sunnyvale Trailer Park. The series captures their unconventional schemes, run-ins with the law, and comical interactions, providing a satirical take on the stereotypes associated with trailer park life.",
+        "thumbnailUrl": "https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/blta7c59c2e61f6ee3d/621c75aa924ed5483e0f6a98/trailerpark.png?width=734&auto=webp&format=png",
+        "videoUrl": "https://www.youtube.com/embed/zuTAknakiPg?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "9",
+        "title": "Better Call Saul",
+        "description": "Prequel to Breaking Bad",
+        "about": "Better Call Saul serves as a prequel to Breaking Bad, focusing on the transformation of Jimmy McGill, a small-time lawyer, into the morally challenged lawyer Saul Goodman. The series explores the complexities of the legal world, providing a character-driven narrative that adds depth to the Breaking Bad universe.",
+        "thumbnailUrl": "https://www.denofgeek.com/wp-content/uploads/2022/04/Better-Call-Saul-Season-6-Episode-3-Rock-and-Hard-Place.jpg?fit=1920%2C1080",
+        "videoUrl": "https://www.youtube.com/embed/gSANa2J_Jhw?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "10",
+        "title": "Fargo",
+        "description": "I forget what this is about",
+        "about": "Fargo is a darkly comedic anthology series inspired by the 1996 film of the same name. Each season tells a different, yet interconnected, story involving crime, deception, and the quirky characters inhabiting the icy landscapes of the Midwest. Despite the forgetfulness in the description, Fargo delivers memorable and captivating narratives.",
+        "thumbnailUrl": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-videoSixteenByNine3000.jpg?year=2020&h=1688&w=3000&s=159b3e1c5720f87a1df53b098d44c074b4a3b81405a4cead9d1e34209f69bdeb&k=ZQJBKqZ0VN&tw=1",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "11",
+        "title": "Black Mirror",
+        "description": "A bunch of weird episodes",
+        "about": "Black Mirror is an anthology series that presents thought-provoking and often dystopian tales exploring the impact of technology on society. Each episode stands alone, providing a dark and speculative look at the potential consequences of modern innovations. It's a series that challenges viewers to reflect on the darker aspects of our relationship with technology.",
+        "thumbnailUrl": "https://occ-0-1123-1723.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUsmwxYNwp0KK2DL2ooVXzexYezjr4WmcihzCIpfX0PApo38rwV2koouiWoyVqSCbCYqVolq6qQV_iLBt_xhPB7C-8qnDmySVpbv0kJ0C87slXAJxnkkn6jc.jpg?r=977",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "12",
+        "title": "The Dark Knight",
+        "description": "Batman and the Joker",
+        "about": "The Dark Knight is the second installment in Christopher Nolan's Batman trilogy. The film explores the complex dynamics between Batman, portrayed by Christian Bale, and the iconic villain, the Joker, played by Heath Ledger. With its intense action sequences, moral dilemmas, and memorable performances, The Dark Knight is hailed as one of the greatest superhero movies of all time.",
+        "thumbnailUrl": "https://images.bauerhosting.com/legacy/media/5f3d/6597/3759/c06f/98a0/7d81/dark-knight-trilogy-main.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "7 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "13",
+        "title": "The Godfather Part II",
+        "description": "I never watched this",
+        "about": "The Godfather Part II is a cinematic masterpiece directed by Francis Ford Coppola. It continues the story of the Corleone crime family, blending the past and present to create a rich narrative. While the description suggests not watching, it's widely regarded as one of the greatest films ever made, exploring themes of power, family, and redemption.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTQ5NTE0MDc0OV5BMl5BanBnXkFtZTgwOTI4NjIwMjE@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "14",
+        "title": "Nathan for You",
+        "description": "Funny awkward guy tries to fix people's problems",
+        "about": "Nathan for You is a comedic reality series where Nathan Fielder, a deadpan comedian, offers absurd and innovative solutions to small businesses' problems. With a unique blend of deadpan humor and unconventional problem-solving, the show explores the awkward and hilarious consequences of Nathan's offbeat strategies.",
+        "thumbnailUrl": "https://yt3.ggpht.com/wyfo87snJ04qrxIYt513gT9t7uwhcu7CgNfqmmrhiSkEU9IrDHl13kR2pykOM2equFgRI4huJw=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "15",
+        "title": "Narcos",
+        "description": "Drug cartel in Colombia",
+        "about": "Narcos is a crime drama series that chronicles the rise and fall of notorious drug cartels in Colombia, with a focus on the life of Pablo Escobar. The show provides a gripping portrayal of the drug trade's impact on law enforcement, politics, and society, blending historical events with compelling storytelling.",
+        "thumbnailUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2016/08/narcos_still_1.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "16",
+        "title": "The Last of Us",
+        "description": "The best show of all time",
+        "about": "The Last of Us is not a show but a critically acclaimed video game developed by Naughty Dog. It is an emotionally charged action-adventure game that follows Joel and Ellie, survivors in a post-apocalyptic world. The game is celebrated for its compelling narrative, characters, and intense gameplay, making it a landmark title in the gaming industry.",
+        "thumbnailUrl": "https://backend.artreview.com/wp-content/uploads/2023/02/lastofus.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "17",
+        "title": "Forrest Gump",
+        "description": "The best show of all time",
+        "about": "Forrest Gump is not a show but an iconic film directed by Robert Zemeckis. The story follows Forrest Gump, portrayed by Tom Hanks, as he unintentionally influences several historical events. The film explores themes of love, destiny, and the impact one person can have on the world.",
+        "thumbnailUrl": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/11/28/10/forrest-gump-running-main.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "18",
+        "title": "Parasite",
+        "description": "The best show of all time",
+        "about": "Parasite is not a show but an Oscar-winning South Korean film directed by Bong Joon-ho. It is a dark comedy-thriller that explores class disparities and societal issues. The film received widespread acclaim for its social commentary, storytelling, and cinematography.",
+        "thumbnailUrl": "https://media.newyorker.com/photos/5da4a5c756dcd400082a63ba/master/w_2560%2Cc_limit/Brody-Parasite.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "19",
+        "title": "Oppenheimer",
+        "description": "The best show of all time",
+        "about": "Oppenheimer seems to be an upcoming project or documentary. Unfortunately, there's no specific information provided. Please check for updates or trailers to learn more about this mysterious entry.",
+        "thumbnailUrl": "https://media.gq.com/photos/645956c367d4264086a5d77f/16:9/w_2352,h_1323,c_limit/Screen Shot 2023-05-08 at 4.07.48 PM.png",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "20",
+        "title": "Whiplash",
+        "description": "The best show of all time",
+        "about": "Whiplash is not a show but an intense drama film directed by Damien Chazelle. It revolves around the relationship between a young drummer and his demanding music instructor. The film explores themes of ambition, perfectionism, and the cost of greatness.",
+        "thumbnailUrl": "https://media.newyorker.com/photos/59097ccac14b3c606c109711/master/pass/Brody-Whiplash.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "21",
+        "title": "Breaking Bad",
+        "description": "A high school teacher decides to cook meth to provide for his family before he dies of cancer",
+        "about": "Breaking Bad is a critically acclaimed TV series created by Vince Gilligan. It follows Walter White, a high school chemistry teacher turned methamphetamine manufacturer, as he descends into the criminal underworld. The series explores themes of morality, consequences, and the transformation of its characters.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "22",
+        "title": "Game of Thrones",
+        "description": "The best show of all time",
+        "about": "Game of Thrones is a fantasy epic TV series based on George R.R. Martin's book series. It intricately weaves political intrigue, power struggles, and supernatural elements across the fictional continents of Westeros and Essos. The show gained massive popularity for its complex characters and unexpected plot twists.",
+        "thumbnailUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/06/emilia-clarke-daenerys-targaryen-game-of-thrones-hbo.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "23",
+        "title": "South Park",
+        "description": "The best show of all time",
+        "about": "South Park is an animated sitcom created by Trey Parker and Matt Stone. Known for its satirical humor, the show revolves around four boys—Stan, Kyle, Cartman, and Kenny—navigating the absurdities of a Colorado town. South Park often tackles social issues and current events with irreverent humor.",
+        "thumbnailUrl": "https://variety.com/wp-content/uploads/2019/10/south-park.jpg?w=1000&h=563&crop=1",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "24",
+        "title": "Chernobyl",
+        "description": "The best show of all time",
+        "about": "Chernobyl is a historical drama miniseries depicting the events surrounding the Chernobyl nuclear disaster. Created by Craig Mazin, the series provides a gripping account of the catastrophe, its aftermath, and the human cost. It received widespread acclaim for its accuracy and storytelling.",
+        "thumbnailUrl": "https://images.thequint.com/thequint%2F2019-06%2F802fb162-5ab9-493a-9bc6-20e808b96f47%2Fchern.jpg?rect=0%2C0%2C952%2C536",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "25",
+        "title": "Dopesick",
+        "description": "The best show of all time",
+        "about": "Dopesick is a miniseries based on Beth Macy's book, exploring the opioid crisis in the United States. The show delves into the pharmaceutical industry's role, the impact on communities, and the pursuit of justice. It sheds light on a critical issue plaguing society.",
+        "thumbnailUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6441C797FBE6A4FCCDB69A403F5850E76F6D762802D86FFAC13E4341C771600/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "26",
+        "title": "The Last Dance",
+        "description": "The best show of all time",
+        "about": "The Last Dance is a documentary miniseries that chronicles the career of basketball legend Michael Jordan. Directed by Jason Hehir, the series provides an in-depth look at Jordan's life, his impact on the NBA, and the Chicago Bulls' quest for championship glory.",
+        "thumbnailUrl": "https://library.sportingnews.com/2021-08/the-last-dance-netflix-espn-plus-ftr_pihe64f7uvv611v0e47jjby4x.png",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "27",
+        "title": "The Office",
+        "description": "The best show of all time",
+        "about": "The Office is a mockumentary sitcom created by Greg Daniels. Set in the Scranton branch of the Dunder Mifflin paper company, the series portrays the everyday lives of office employees. Known for its humor and unique format, The Office has become a cultural phenomenon.",
+        "thumbnailUrl": "https://flxt.tmsimg.com/assets/p185008_b_h10_ai.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "28",
+        "title": "Trailer Park Boys",
+        "description": "The best show of all time",
+        "about": "Trailer Park Boys is a mockumentary-style sitcom created by Mike Clattenburg. It follows the misadventures of Ricky, Julian, and Bubbles, residents of a fictional trailer park. Known for its unique humor and characters, the show has gained a dedicated fanbase.",
+        "thumbnailUrl": "https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/blta7c59c2e61f6ee3d/621c75aa924ed5483e0f6a98/trailerpark.png?width=734&auto=webp&format=png",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "29",
+        "title": "Better Call Saul",
+        "description": "The best show of all time",
+        "about": "Better Call Saul is a prequel to Breaking Bad, created by Vince Gilligan and Peter Gould. It follows the transformation of Jimmy McGill, a small-time lawyer, into the morally challenged lawyer Saul Goodman. The series explores the complexities of the legal world and morality.",
+        "thumbnailUrl": "https://www.denofgeek.com/wp-content/uploads/2022/04/Better-Call-Saul-Season-6-Episode-3-Rock-and-Hard-Place.jpg?fit=1920%2C1080",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "30",
+        "title": "Fargo",
+        "description": "The best show of all time",
+        "about": "Fargo is a dark comedy-crime anthology series inspired by the Coen Brothers' film of the same name. Each season features new characters and storylines, connected by the theme of crime and morality. The series is known for its quirky characters and unpredictable plot twists.",
+        "thumbnailUrl": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-videoSixteenByNine3000.jpg?year=2020&h=1688&w=3000&s=159b3e1c5720f87a1df53b098d44c074b4a3b81405a4cead9d1e34209f69bdeb&k=ZQJBKqZ0VN&tw=1",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "31",
+        "title": "Black Mirror",
+        "description": "The best show of all time",
+        "about": "Step into the future with 'Black Mirror,' an anthology series that explores the dark and often dystopian aspects of modern society and technology. Each episode tells a standalone story, offering a chilling reflection on the potential consequences of our digital age.",
+        "thumbnailUrl": "https://occ-0-1123-1723.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUsmwxYNwp0KK2DL2ooVXzexYezjr4WmcihzCIpfX0PApo38rwV2koouiWoyVqSCbCYqVolq6qQV_iLBt_xhPB7C-8qnDmySVpbv0kJ0C87slXAJxnkkn6jc.jpg?r=977",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "32",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "Follow Walter White's transformation from a high school teacher to a methamphetamine manufacturer in this gripping drama series. 'Breaking Bad' is hailed as one of the greatest TV shows, delivering intense storytelling and compelling characters.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "33",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "Embark on a journey through the criminal underworld with 'Breaking Bad.' This critically acclaimed series follows the life of Walter White, unraveling the complexities of morality and power.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "34",
+        "title": "Nathan for You",
+        "description": "The best show of all time",
+        "about": "Laugh out loud with 'Nathan for You,' a comedic reality series where Nathan Fielder provides unconventional and hilarious business solutions. This show is a perfect blend of wit and absurdity, creating a unique and entertaining experience.",
+        "thumbnailUrl": "https://yt3.ggpht.com/wyfo87snJ04qrxIYt513gT9t7uwhcu7CgNfqmmrhiSkEU9IrDHl13kR2pykOM2equFgRI4huJw=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "35",
+        "title": "Narcos",
+        "description": "The best show of all time",
+        "about": "'Narcos' takes you into the thrilling world of drug cartels and law enforcement. Based on true events, this crime drama provides a gripping narrative, showcasing the challenges and dangers of the narcotics trade.",
+        "thumbnailUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2016/08/narcos_still_1.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "36",
+        "title": "The Last of Us",
+        "description": "The best show of all time",
+        "about": "'The Last of Us' brings a post-apocalyptic world to life, filled with danger, emotion, and survival. This gripping drama explores the depths of human connection and the lengths one will go to for survival.",
+        "thumbnailUrl": "https://backend.artreview.com/wp-content/uploads/2023/02/lastofus.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "37",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "Immerse yourself in the world of 'Breaking Bad,' where morality is blurred, and consequences are inevitable. This groundbreaking series has left an indelible mark on television history, offering a gripping tale of crime and consequence.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "38",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "Witness the riveting story of 'Breaking Bad,' a series that explores the consequences of choices and the descent into the criminal underworld. With its complex characters and intense storytelling, this show has become a cultural phenomenon.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "39",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "'Breaking Bad' is a rollercoaster of emotions and suspense, with each episode leaving you on the edge of your seat. Explore the moral dilemmas faced by its characters as they navigate the dangerous world of drug trade.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "40",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "'Breaking Bad' is a masterclass in storytelling, with its gripping narrative and compelling characters. Enter the world of Walter White and Jesse Pinkman, where every decision has profound consequences.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "41",
+        "title": "Breaking Bad",
+        "description": "A high school teacher decides to cook meth to provide for his family before he dies of cancer",
+        "about": "Follow the gripping story of Walter White as he turns to the world of methamphetamine production for financial security. 'Breaking Bad' is a rollercoaster of suspense, morality, and the consequences of choices.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "42",
+        "title": "Game of Thrones",
+        "description": "The best show of all time",
+        "about": "Enter the epic fantasy world of 'Game of Thrones,' where power struggles, dragons, and intricate political plots unfold. This groundbreaking series has captivated audiences worldwide with its complex characters and unpredictable narrative.",
+        "thumbnailUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/06/emilia-clarke-daenerys-targaryen-game-of-thrones-hbo.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Fantasy"
+    },
+    {
+        "id": "43",
+        "title": "South Park",
+        "description": "The best show of all time",
+        "about": "'South Park' is a satirical animated series that fearlessly tackles social and political issues. Join the residents of South Park for outrageous adventures and humor that pushes the boundaries of comedy.",
+        "thumbnailUrl": "https://variety.com/wp-content/uploads/2019/10/south-park.jpg?w=1000&h=563&crop=1",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Animation"
+    },
+    {
+        "id": "44",
+        "title": "Chernobyl",
+        "description": "The best show of all time",
+        "about": "Relive the harrowing events of the Chernobyl nuclear disaster with this gripping historical drama. 'Chernobyl' is a haunting portrayal of the human cost and the sacrifices made in the face of one of the world's worst man-made catastrophes.",
+        "thumbnailUrl": "https://images.thequint.com/thequint%2F2019-06%2F802fb162-5ab9-493a-9bc6-20e808b96f47%2Fchern.jpg?rect=0%2C0%2C952%2C536",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "45",
+        "title": "Dopesick",
+        "description": "The best show of all time",
+        "about": "'Dopesick' explores the opioid crisis, shedding light on the pharmaceutical industry's role in the epidemic. This powerful drama unfolds the impact of addiction on individuals, families, and society.",
+        "thumbnailUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6441C797FBE6A4FCCDB69A403F5850E76F6D762802D86FFAC13E4341C771600/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "46",
+        "title": "The Last Dance",
+        "description": "The best show of all time",
+        "about": "Relive the glory days of basketball with 'The Last Dance,' a documentary series that chronicles the career of Michael Jordan and the Chicago Bulls. This sports documentary is a captivating journey through the world of professional basketball.",
+        "thumbnailUrl": "https://library.sportingnews.com/2021-08/the-last-dance-netflix-espn-plus-ftr_pihe64f7uvv611v0e47jjby4x.png",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Documentary"
+    },
+    {
+        "id": "47",
+        "title": "The Office",
+        "description": "The best show of all time",
+        "about": "'The Office' offers a hilarious mockumentary-style look at the daily operations of Dunder Mifflin, a paper company. Join the quirky employees for laughs, awkward moments, and unforgettable camaraderie.",
+        "thumbnailUrl": "https://flxt.tmsimg.com/assets/p185008_b_h10_ai.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "48",
+        "title": "Trailer Park Boys",
+        "description": "The best show of all time",
+        "about": "Get ready for outrageous comedy with 'Trailer Park Boys,' a mockumentary series that follows the misadventures of three friends living in a fictional trailer park. Brace yourself for unconventional humor and chaotic escapades.",
+        "thumbnailUrl": "https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/blta7c59c2e61f6ee3d/621c75aa924ed5483e0f6a98/trailerpark.png?width=734&auto=webp&format=png",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "49",
+        "title": "Better Call Saul",
+        "description": "The best show of all time",
+        "about": "'Better Call Saul' is a gripping prequel to 'Breaking Bad,' delving into the transformation of Jimmy McGill into the morally challenged lawyer Saul Goodman. Explore the intricate legal world with its fascinating characters.",
+        "thumbnailUrl": "https://www.denofgeek.com/wp-content/uploads/2022/04/Better-Call-Saul-Season-6-Episode-3-Rock-and-Hard-Place.jpg?fit=1920%2C1080",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "50",
+        "title": "Fargo",
+        "description": "The best show of all time",
+        "about": "'Fargo' is a darkly comedic anthology series inspired by the Coen Brothers' film. Each season presents a new set of characters and criminal scenarios, offering a unique blend of crime, humor, and drama.",
+        "thumbnailUrl": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-videoSixteenByNine3000.jpg?year=2020&h=1688&w=3000&s=159b3e1c5720f87a1df53b098d44c074b4a3b81405a4cead9d1e34209f69bdeb&k=ZQJBKqZ0VN&tw=1",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Crime"
+    },
+    {
+        "id": "51",
+        "title": "Black Mirror",
+        "description": "The best show of all time",
+        "about": "'Black Mirror' presents thought-provoking and dystopian tales that explore the dark side of technology and its impact on society. Brace yourself for mind-bending stories that challenge the way you perceive the modern world.",
+        "thumbnailUrl": "https://occ-0-1123-1723.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUsmwxYNwp0KK2DL2ooVXzexYezjr4WmcihzCIpfX0PApo38rwV2koouiWoyVqSCbCYqVolq6qQV_iLBt_xhPB7C-8qnDmySVpbv0kJ0C87slXAJxnkkn6jc.jpg?r=977",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": "52",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "Witness the riveting story of 'Breaking Bad,' a series that explores the consequences of choices and the descent into the criminal underworld. With its complex characters and intense storytelling, this show has become a cultural phenomenon.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "53",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "'Breaking Bad' is a rollercoaster of emotions and suspense, with each episode leaving you on the edge of your seat. Explore the moral dilemmas faced by its characters as they navigate the dangerous world of drug trade.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "54",
+        "title": "Nathan for You",
+        "description": "The best show of all time",
+        "about": "'Nathan for You' is a unique blend of comedy and reality television, featuring Nathan Fielder as he provides unconventional advice to small businesses. Prepare for awkward encounters and hilarious solutions.",
+        "thumbnailUrl": "https://yt3.ggpht.com/wyfo87snJ04qrxIYt513gT9t7uwhcu7CgNfqmmrhiSkEU9IrDHl13kR2pykOM2equFgRI4huJw=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "55",
+        "title": "Narcos",
+        "description": "The best show of all time",
+        "about": "'Narcos' is a thrilling crime drama that chronicles the rise and fall of infamous drug cartels. With a mix of real historical events and fictionalized narratives, this series provides a gripping look into the world of narcotics trafficking.",
+        "thumbnailUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2016/08/narcos_still_1.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Crime"
+    },
+    {
+        "id": "56",
+        "title": "The Last of Us",
+        "description": "The best show of all time",
+        "about": "A gripping drama set in a post-apocalyptic world, 'The Last of Us' follows the journey of Joel and Ellie as they navigate danger and survival.",
+        "thumbnailUrl": "https://backend.artreview.com/wp-content/uploads/2023/02/lastofus.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "57",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "A high school teacher decides to cook meth to provide for his family before he dies of cancer",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "58",
+        "title": "Game of Thrones",
+        "description": "The best show of all time",
+        "about": "In the mythical land of Westeros, noble families vie for control of the Iron Throne. 'Game of Thrones' is a tale of power, betrayal, and dragons.",
+        "thumbnailUrl": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/06/emilia-clarke-daenerys-targaryen-game-of-thrones-hbo.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "59",
+        "title": "South Park",
+        "description": "The best show of all time",
+        "about": "Join Stan, Kyle, Cartman, and Kenny in the fictional Colorado town of South Park as they embark on absurd adventures and satirize various topics.",
+        "thumbnailUrl": "https://variety.com/wp-content/uploads/2019/10/south-park.jpg?w=1000&h=563&crop=1",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "60",
+        "title": "Chernobyl",
+        "description": "The best show of all time",
+        "about": "A gripping miniseries that recounts the devastating Chernobyl nuclear disaster of 1986 and its aftermath.",
+        "thumbnailUrl": "https://images.thequint.com/thequint%2F2019-06%2F802fb162-5ab9-493a-9bc6-20e808b96f47%2Fchern.jpg?rect=0%2C0%2C952%2C536",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "61",
+        "title": "Dopesick",
+        "description": "The best show of all time",
+        "about": "Based on real events, 'Dopesick' explores the opioid crisis in the United States and its impact on individuals, doctors, and pharmaceutical companies.",
+        "thumbnailUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6441C797FBE6A4FCCDB69A403F5850E76F6D762802D86FFAC13E4341C771600/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "62",
+        "title": "The Last Dance",
+        "description": "The best show of all time",
+        "about": "A documentary series that chronicles the career of basketball icon Michael Jordan, providing an in-depth look at his life and the Chicago Bulls' dynasty.",
+        "thumbnailUrl": "https://library.sportingnews.com/2021-08/the-last-dance-netflix-espn-plus-ftr_pihe64f7uvv611v0e47jjby4x.png",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Documentary"
+    },
+    {
+        "id": "63",
+        "title": "The Office",
+        "description": "The best show of all time",
+        "about": "A mockumentary sitcom that satirizes office culture, 'The Office' follows the daily lives of employees at the Dunder Mifflin paper company.",
+        "thumbnailUrl": "https://flxt.tmsimg.com/assets/p185008_b_h10_ai.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "64",
+        "title": "Trailer Park Boys",
+        "description": "The best show of all time",
+        "about": "A mockumentary-style comedy that follows the misadventures of three friends living in the fictional Sunnyvale Trailer Park.",
+        "thumbnailUrl": "https://eu-images.contentstack.com/v3/assets/blt781c383a1983f673/blta7c59c2e61f6ee3d/621c75aa924ed5483e0f6a98/trailerpark.png?width=734&auto=webp&format=png",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Comedy"
+    },
+    {
+        "id": "65",
+        "title": "Better Call Saul",
+        "description": "The best show of all time",
+        "about": "A prequel to 'Breaking Bad,' 'Better Call Saul' explores the transformation of Jimmy McGill, a small-time lawyer, into the morally challenged lawyer Saul Goodman.",
+        "thumbnailUrl": "https://www.denofgeek.com/wp-content/uploads/2022/04/Better-Call-Saul-Season-6-Episode-3-Rock-and-Hard-Place.jpg?fit=1920%2C1080",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "66",
+        "title": "Fargo",
+        "description": "The best show of all time",
+        "about": "An anthology series inspired by the Coen Brothers' film of the same name, 'Fargo' presents darkly comedic and often violent tales set in the Midwest.",
+        "thumbnailUrl": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-videoSixteenByNine3000.jpg?year=2020&h=1688&w=3000&s=159b3e1c5720f87a1df53b098d44c074b4a3b81405a4cead9d1e34209f69bdeb&k=ZQJBKqZ0VN&tw=1",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Crime"
+    },
+    {
+        "id": "67",
+        "title": "Black Mirror",
+        "description": "The best show of all time",
+        "about": "An anthology series that delves into the dark and often dystopian aspects of modern society and technology.",
+        "thumbnailUrl": "https://occ-0-1123-1723.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUsmwxYNwp0KK2DL2ooVXzexYezjr4WmcihzCIpfX0PApo38rwV2koouiWoyVqSCbCYqVolq6qQV_iLBt_xhPB7C-8qnDmySVpbv0kJ0C87slXAJxnkkn6jc.jpg?r=977",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Science Fiction"
+    },
+    {
+        "id": "68",
+        "title": "Breaking Bad",
+        "description": "The best show of all time",
+        "about": "A high school teacher decides to cook meth to provide for his family before he dies of cancer",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "69",
+        "title": "Better Call Saul",
+        "description": "The best show of all time",
+        "about": "A prequel to 'Breaking Bad,' 'Better Call Saul' explores the transformation of Jimmy McGill, a small-time lawyer, into the morally challenged lawyer Saul Goodman.",
+        "thumbnailUrl": "https://www.denofgeek.com/wp-content/uploads/2022/04/Better-Call-Saul-Season-6-Episode-3-Rock-and-Hard-Place.jpg?fit=1920%2C1080",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Drama"
+    },
+    {
+        "id": "70",
+        "title": "Fargo",
+        "description": "The best show of all time",
+        "about": "An anthology series inspired by the Coen Brothers' film of the same name, 'Fargo' presents darkly comedic and often violent tales set in the Midwest.",
+        "thumbnailUrl": "https://static01.nyt.com/images/2020/09/25/arts/25Fargo-print/25Fargo-print-videoSixteenByNine3000.jpg?year=2020&h=1688&w=3000&s=159b3e1c5720f87a1df53b098d44c074b4a3b81405a4cead9d1e34209f69bdeb&k=ZQJBKqZ0VN&tw=1",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Crime"
+    },
+    {
+        "id": "71",
+        "title": "Black Mirror",
+        "description": "The best show of all time",
+        "about": "An anthology series that delves into the dark and often dystopian aspects of modern society and technology.",
+        "thumbnailUrl": "https://occ-0-1123-1723.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUsmwxYNwp0KK2DL2ooVXzexYezjr4WmcihzCIpfX0PApo38rwV2koouiWoyVqSCbCYqVolq6qQV_iLBt_xhPB7C-8qnDmySVpbv0kJ0C87slXAJxnkkn6jc.jpg?r=977",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
+        "duration": "2 hours",
+        "genre": "Science Fiction"
+    }
+]
