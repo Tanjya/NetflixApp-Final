@@ -3,7 +3,10 @@ import { Movie } from "../types";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 
-const MovieCard = ({ movie }: { movie: Movie }) => {
+const MovieCard = ({ movie, lastElementRef }: {
+    movie: Movie;
+    lastElementRef: ((node: HTMLDivElement) => void) | null
+}) => {
     //! Destructure movie object
     const { id, thumbnailUrl, duration, genre, description, title, about } = movie;
 
@@ -18,7 +21,7 @@ const MovieCard = ({ movie }: { movie: Movie }) => {
     };
 
     return (
-        <div className="group bg-zinc-900 col-span relative h-[12vw] w-[24%]">
+        <div className="group bg-zinc-900 col-span relative h-[12vw] w-[24%]" ref={lastElementRef}>
 
             {/* Movie Thumbnail */}
             <img

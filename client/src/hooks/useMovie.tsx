@@ -71,7 +71,6 @@ const useMovie = (id: string) => {
 
         try {
             const response = await axios.get(`http://localhost:4000/movies/${id}`);
-
             // console.log(response);
 
             dispatch({ type: ActionType.SUCCESS, payload: response.data })

@@ -13,6 +13,7 @@ const NavBar = () => {
     useEffect(() => {
         window.addEventListener("scroll", () => {
             // console.log(window.scrollY)
+
             if (window.scrollY > 600) {
                 setShowBackground(true)
             } else {

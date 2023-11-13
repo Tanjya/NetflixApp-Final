@@ -10,6 +10,7 @@ const WatchPage = () => {
     //! use that id for playing each one
     const { data, loading, error } = useMovie(param.id);
     // console.log(data, loading, error);
+
     //! back previous page
     const navigate = useNavigate();
 

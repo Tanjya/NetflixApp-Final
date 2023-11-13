@@ -30,13 +30,13 @@ type Action =
     | { type: ActionType.FAILED, payload: string }
 
 //! Reducer function to handle state updates based on actions.
-const reducer = (_: State, action: Action): State => {
+const reducer = (state: State, action: Action): State => {
     switch (action.type) {
         case ActionType.LOADING:
             return {
+                ...state,
                 loading: true,
                 error: null,
-                data: null
             }
         case ActionType.FAILED:
             return {
@@ -63,7 +63,7 @@ const useMoviesList = (offset: number) => {
 
     useEffect(() => {
         fetchMovieList()
-    }, []);
+    }, [offset]);
 
     //! fetching data:
     const fetchMovieList = async () => {
@@ -73,7 +73,10 @@ const useMoviesList = (offset: number) => {
             const response = await axios.get(`http://localhost:4000/movies/list?offset=${offset}`);
             // console.log(response);
 
-            dispatch({ type: ActionType.SUCCESS, payload: response.data })
+            //! pagination solution
+            const movieData = data ? [...data, ...response.data] : response.data;
+
+            dispatch({ type: ActionType.SUCCESS, payload: movieData })
 
         } catch (error) {
             dispatch({ type: ActionType.FAILED, payload: "Something went wrong! TRY AGAIN LATER" })
