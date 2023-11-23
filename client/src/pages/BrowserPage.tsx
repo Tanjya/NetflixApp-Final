@@ -17,20 +17,19 @@ const BrowserPage = () => {
     const lastElementRef = useCallback((node: HTMLDivElement) => {
 
         if (loading) return;
-
         if (observer.current) observer.current.disconnect();
+
         observer.current = new IntersectionObserver((entries) => {
             if (entries[0].isIntersecting) {
                 setOffset(offset + 12);
 
-                console.log("Intersecting!");
+                console.log("Intersecting");
             }
         });
 
         if (node) observer.current.observe(node);
 
     }, [loading, offset]);
-
 
 
     return (
