@@ -9,9 +9,9 @@ const MovieList = ({
   lastElementRef: (node: HTMLDivElement) => void;
 }) => {
   return (
-    <div className="px-12 mt-4 space-y-8 bg-black">
-      <div>
-        <p className="text-white text-2xl font-semibold mb-4">Popular Show</p>
+    <div className="px-12  space-y-8 bg-black">
+      <div className="text-white">
+        <p className=" text-2xl font-semibold mb-4 py-4">Popular Show</p>
 
         <div className="flex flex-wrap gap-2 justify-between">
           {movies.map((movie, ind) => (
