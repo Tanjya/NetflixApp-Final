@@ -3,48 +3,49 @@ import BillboardPage from "../components/BillboardPage";
 import NavBar from "../components/NavBar";
 import useMoviesList from "../hooks/useMoviesList";
 import MovieList from "./MovieList";
+import LoadingCards from "../components/LoadingCards";
 
 const BrowserPage = () => {
-  //!pagination
-  const [offset, setOffset] = useState(0);
+    //!pagination
+    const [offset, setOffset] = useState(0);
 
-  const { data, loading, error } = useMoviesList(offset);
+    const { data, loading, error } = useMoviesList(offset);
 
-  //! observer
-  const observer = useRef<null | IntersectionObserver>(null);
+    //! observer
+    const observer = useRef<null | IntersectionObserver>(null);
 
-  //! last observer option
-  const lastElementRef = useCallback(
-    (node: HTMLDivElement) => {
-      if (loading) return;
-      if (observer.current) observer.current.disconnect();
+    //! last observer option
+    const lastElementRef = useCallback((node: HTMLDivElement) => {
 
-      observer.current = new IntersectionObserver((entries) => {
-        if (entries[0].isIntersecting) {
-          setOffset(offset + 12);
+        if (loading) return;
+        if (observer.current) observer.current.disconnect();
 
-          console.log("Intersecting");
-        }
-      });
+        observer.current = new IntersectionObserver((entries) => {
+            if (entries[0].isIntersecting) {
+                setOffset(offset + 12);
 
-      if (node) observer.current.observe(node);
-    },
-    [loading, offset]
-  );
+                console.log("Intersecting");
+            }
+        });
 
-  return (
-    <div>
-      <NavBar />
-      <BillboardPage />
-      <div className="pb-5">
-        {loading ? <p>Loading ...</p> : null}
-        {error ? <p>{error}</p> : null}
-        {data ? (
-          <MovieList movies={data} lastElementRef={lastElementRef} />
-        ) : null}
-      </div>
-    </div>
-  );
+        if (node) observer.current.observe(node);
+
+    }, [loading, offset]);
+
+
+    return (
+        <div>
+            <NavBar />
+            <BillboardPage />
+            <div className="pb-5">
+                {error && <p>{error}</p>}
+
+                {data && <MovieList movies={data} lastElementRef={lastElementRef} />}
+
+                {loading ? <LoadingCards /> : null}
+            </div>
+        </div>
+    );
 };
 
 export default BrowserPage;

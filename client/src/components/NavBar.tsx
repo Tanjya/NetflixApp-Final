@@ -18,22 +18,22 @@ const NavBar = () => {
   return (
     <nav className="w-full fixed z-40">
       <div
-        className={`px-16 py-6 flex justify-between items-center ${
+        className={`px-16 py-6 md:flex lg:flex justify-between items-center ${
           showBackground ? "bg-black bg-opacity-90" : null
         }`}
       >
         <img className="h-10" src={Logo} alt="Logo" />
-        <div className="md:flex lg:flex gap-7 ml-8">
+        <div className="flex gap-7 ml-8">
           {tabs.map((tab) => (
             <div
               key={tab}
-              className="sm:flex text-white hover:text-gray-300 cursor-pointer"
+              className="text-white hover:text-gray-300 cursor-pointer"
             >
               <p>{tab}</p>
             </div>
           ))}
         </div>
-        <button className="bg-red-700 text-white px-4 text-sm py-2 rounded ">
+        <button className="bg-red-700 text-white px-4 text-sm py-2 rounded">
           Sign In
         </button>
       </div>
