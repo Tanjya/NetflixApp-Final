@@ -33,9 +33,11 @@ const NavBar = () => {
             </div>
           ))}
         </div>
-        <button className="bg-red-700 text-white px-4 text-sm py-2 rounded">
-          Sign In
-        </button>
+        <a href="/login">
+          <button className="bg-red-700 text-white px-4 text-sm py-2 rounded">
+            Sign In
+          </button>
+        </a>
       </div>
     </nav>
   );
